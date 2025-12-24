@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello there 👋
 
-<!--
-**RyabininAleck/RyabininAleck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Backend Developer by day ☼ and a DiFi enthusiast by night ☾
 
-Here are some ideas to get you started:
+Backend Developer at [onmi](https://onmi.io);   
+Ex [fonbet](https://fon.bet) payment team;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ I use daily: `.go`, `.py`, `helm`, `temporal`     
+🌍 I'm mostly active within the [DeFrens](https://t.me/defrensnews) Community   
+💅 Developer: [fonbet](https://fon.bet), [bakai bank](https://bakai.kg), [usdt.kg](https://usdt.kg), [altin.one](https://altyn.one), etc…   
+💬 ping me about golang, branding, devOps, development, system design thinking
+
+## Articles:
+- [DevAgent-Orchestrator](https://github.com/RyabininAleck/DevAgent-Orchestrator) — Agent workflow orchestration  
+- [cursor_rules_golang](https://github.com/RyabininAleck/cursor_rules_golang) — Golang Cursor rules 
